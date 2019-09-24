@@ -4,6 +4,7 @@ git init
 git add <filename>
 git commit -m "Комментарий к добавленному файлу"
 ###---Повторяем для всех загружаемых файлов---###
+# или можно добавить все сразу командой git add .
 
 git branch master				 				# удостоверимся что мы находимся не в ветках
 git remote add origin https://github.com/hse-mlearn/ha-01-danyanyam.git 	# добавляем alias для дальнейшего удобного обращения к ссылке
